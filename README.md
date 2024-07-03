@@ -2,7 +2,7 @@
 # Titanic Classification Model
 
 
-Hi LinkedIn People,
+Hi Devs,
 
 
 
